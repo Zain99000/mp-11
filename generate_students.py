@@ -1,0 +1,314 @@
+import json
+import re
+
+def to_title(name):
+    parts = re.split(r'(\(.*?\))', name)
+    out = []
+    for p in parts:
+        if p.startswith('(') and p.endswith(')'):
+            inner = p[1:-1]
+            if inner.upper() == 'L.E.':
+                out.append('(L.E.)')
+            elif inner.upper().startswith('S/O ') or inner.upper().startswith('S/O. ') or inner.upper().startswith('S/O'):
+                sub = re.sub(r'^[Ss]/[Oo]\.?\s*', 'S/O ', inner)
+                prefix = 'S/O '
+                rest = sub[len(prefix):].strip().title()
+                out.append(f'({prefix}{rest})')
+            else:
+                out.append(f'({inner.title()})')
+        else:
+            out.append(p.title())
+    res = ''.join(out)
+    res = re.sub(r'\bMd\b', 'MD', res)
+    res = re.sub(r'\bSk\b', 'SK', res)
+    return res.strip()
+
+def get_avatar(name):
+    clean = re.sub(r'\(.*?\)', '', name).strip()
+    words = clean.split()
+    if len(words) >= 2:
+        return (words[0][0] + words[-1][0]).upper()
+    elif len(words) == 1:
+        return words[0][:2].upper()
+    return "ST"
+
+def make_student(idx, name, college_roll, univ_roll, reg_no, branch, payment):
+    title_name = to_title(name)
+    avatar = get_avatar(name)
+
+    return {
+        "id": college_roll if college_roll else univ_roll,
+        "collegeRoll": college_roll,
+        "univRoll": univ_roll,
+        "name": title_name,
+        "branch": branch,
+        "semester": "3",
+        "attendance": 0,
+        "attendedCount": 0,
+        "totalSessions": 0,
+        "status": "Pending",
+        "avatar": avatar,
+        "regNo": reg_no,
+        "payment": payment
+    }
+
+# CSE Students (Pages 1-5 + Lateral 5-6)
+cse_raw = [
+    # Page 1
+    ("AAHLADITA VERMA", "242001001", "12500124001", "241250110001 of 2024-25", "Done"),
+    ("AARYAN KUMAR", "242002002", "12500124002", "241250110002 of 2024-25", "Done"),
+    ("AARYAN LAL DAS", "242003003", "12500124003", "241250110003 of 2024-25", "Done (150 )"),
+    ("AASHISH PANDEY", "242004004", "12500124004", "241250110004 of 2024-25", "Done"),
+    ("ABHIJEET KUMAR MISHRA", "242005006", "12500124005", "241250110005 of 2024-25", "Done"),
+    ("ABHIMANYU SINGH", "242162208", "12500124006", "241250110006 of 2024-25", "Done"),
+    ("ABHINAV ANAND", "242006007", "12500124007", "241250110007 of 2024-25", "Done"),
+    ("ABHISHEK RAJ", "242008009", "12500124008", "241250110009 of 2024-25", "No"),
+    ("ADARSH NAYAN", "242009010", "12500124009", "241250110010 of 2024-25", "Done"),
+    ("ADITYA", "242010011", "12500124010", "241250110011 of 2024-25", "Done"),
+    ("ADITYA KUMAR", "242011012", "12500124011", "241250110012 of 2024-25", "Done"),
+    ("ADITYA KUMAR SINGH", "242012013", "12500124012", "241250110013 of 2024-25", "Done Cash"),
+    ("ADITYA PRAKASH", "242013015", "12500124013", "241250110014 of 2024-25", "No"),
+    ("ANAND KUMAR", "242019025", "12500124014", "241250110020 of 2024-25", "Done"),
+    ("ANAND KUMAR JHA", "242020026", "12500124015", "241250110021 of 2024-25", "Done (150 )"),
+    ("ANJALI KUMARI", "242158205", "12500124016", "241250110024 of 2024-25", "Done"),
+    ("ANKIT KUMAR JHA", "242023029", "12500124017", "241250110025 of 2024-25", "No"),
+    ("ANSHU KUMAR", "242024030", "12500124018", "241250110026 of 2024-25", "Done"),
+    ("ANUBHAV RANJAN", "242025031", "12500124019", "241250110027 of 2024-25", "Done"),
+    ("ANUMITA KHAN", "242026032", "12500124020", "241250110028 of 2024-25", "Done"),
+    ("AKASH NAYAN", "242016021", "12500124021", "241250110017 of 2024-25", "Done"),
+    ("AKSHAY SHANDILYA", "242017023", "12500124022", "241250110018 of 2024-25", "Done"),
+    ("ARYAN SINGH", "242035044", "12500124023", "241250110036 of 2024-25", "Done Cash"),
+    ("AYUSH KUMAR(S/O SANJAY KUMAR)", "242041051", "12500124024", "241250110039 of 2024-25", "Done"),
+    ("BEAUTY KUMARI", "242044054", "12500124025", "241250110044 of 2024-25", "Done"),
+    ("AYUSH NARAYAN", "242161207", "12500124026", "241250110041 of 2024-25", "Done"),
+    ("AYUSH RAJ(S/O ALOK KUMAR)", "242042052", "12500124027", "241250110042 of 2024-25", "Done"),
+    ("CHANDAN KUMAR(S/O MUNNA YADAV)", "242050061", "12500124028", "241250110048 of 2024-25", "Done"),
+    ("DEBANJAN DUTTA(S/o U.K. Dutta)", "242053064", "12500124029", "241250110052 of 2024-25", "Done"),
+    ("CHANDAN KUMAR SINGH", "242049060", "12500124030", "241250110050 of 2024-25", "Done"),
+    ("DILSHAD NAWAZ", "242060072", "12500124031", "241250110061 of 2024-25", "Done"),
+    ("GIRIDHAR MISHRA", "242064077", "12500124032", "241250110064 of 2024-25", "No"),
+    ("GOPAL KRISHNA", "242065078", "12500124033", "241250110065 of 2024-25", "Done"),
+    ("HARSH RAJ", "242155203", "12500124034", "241250110067 of 2024-25", "Done"),
+
+    # Page 2
+    ("IRSHAD ALAM", "242067081", "12500124035", "241250110068 of 2024-25", "Done"),
+    ("KARAN RAJ", "242071086", "12500124036", "241250110072 of 2024-25", "Done"),
+    ("KUMAR ANKUR", "242163209", "12500124037", "241250110075 of 2024-25", "Done"),
+    ("KUMARI HEMLATA", "242157089", "12500124038", "241250110076 of 2024-25", "Done"),
+    ("KUSHAGRA KUMAR", "242076093", "12500124039", "241250110080 of 2024-25", "Done (150 )"),
+    ("MANSHI", "242077095", "12500124040", "241250110081 of 2024-25", "Done"),
+    ("MANVI KUMARI", "242078096", "12500124041", "241250110082 of 2024-25", "Done"),
+    ("MAYANK ANAND", "242159206", "12500124042", "241250110083 of 2024-25", "Done"),
+    ("MAYANK RAJ", "242079097", "12500124043", "241250110084 of 2024-25", "Done"),
+    ("MD AMJAD", "242080098", "12500124044", "241250110085 of 2024-25", "Done"),
+    ("MD SAMEER", "242085105", "12500124045", "241250110087 of 2024-25", "Done"),
+    ("MD SIBTAIN ANSARI", "242165100", "12500124046", "241250110088 of 2024-25", "Done"),
+    ("MD TAUFIK RAZA", "242082101", "12500124047", "241250110089 of 2024-25", "Done"),
+    ("KUNAL KUMAR", "242074091", "12500124048", "241250110078 of 2024-25", "Done"),
+    ("MD ZAIN KAMAL", "242084103", "12500124049", "241250110091 of 2024-25", "Done"),
+    ("MOHIT RAJ", "242086106", "12500124050", "241250110092 of 2024-25", "Done (150 )"),
+    ("NEHA CHANDRA", "242088108", "12500124051", "241250110094 of 2024-25", "Done"),
+    ("NIRMALYA DUTTA", "242090110", "12500124052", "241250110096 of 2024-25", "Done"),
+    ("OM ADITYA", "242096116", "12500124053", "241250110101 of 2024-25", "Done"),
+    ("PAWAN PRAKASH", "242097117", "12500124054", "241250110102 of 2024-25", "Done"),
+    ("PRINCE RAJ", "242160121", "12500124055", "241250110104 of 2024-25", "Done"),
+    ("PRINCE YADAV", "242099122", "12500124056", "241250110105 of 2024-25", "Done"),
+    ("RAMISH MANZAR", "242108134", "12500124057", "241250110114 of 2024-25", "Done"),
+    ("RAUNAK RAJ", "242109135", "12500124058", "241250110115 of 2024-25", "Done"),
+    ("RAUNEET SINGH", "242110136", "12500124059", "241250110116 of 2024-25", "No"),
+    ("RISHAB KUMAR", "242111137", "12500124060", "241250110117 of 2024-25", "Done (150 )"),
+    ("RISHABH KUMAR JHA", "242112138", "12500124061", "241250110118 of 2024-25", "Done"),
+    ("RISHU KUMAR", "242113139", "12500124062", "241250110119 of 2024-25", "Done"),
+    ("RITIKA KUMARI", "242168212", "12500124063", "241250110120 of 2024-25", "Done"),
+    ("RIYA GUPTA", "242114140", "12500124064", "241250110121 of 2024-25", "Done"),
+    ("RIYA KUMARI", "242115141", "12500124065", "241250110122 of 2024-25", "Done"),
+    ("ROSHNI SHREE", "242116142", "12500124066", "241250110123 of 2024-25", "Done"),
+    ("PRIYANSHU SHAHI", "242103128", "12500124067", "241250110109 of 2024-25", "Done"),
+
+    # Page 3
+    ("SATYAM KUMAR", "242127157", "12500124068", "241250110133 of 2024-25", "Done"),
+    ("SATYAM KUMAR DEO", "242128158", "12500124069", "241250110134 of 2024-25", "Done"),
+    ("SOURAV KUMAR", "242138177", "12500124070", "241250110143 of 2024-25", "Done"),
+    ("SHAWAN CHOUHAN", "242131163", "12500124071", "241250110137 of 2024-25", "Done"),
+    ("SHIVAM PANDEY", "242132165", "12500124072", "241250110138 of 2024-25", "No"),
+    ("SONAM SONI", "242135171", "12500124073", "241250110140 of 2024-25", "Done"),
+    ("SUMIT KUMAR PANDEY", "242146190", "12500124074", "241250110152 of 2024-25", "Done"),
+    ("VISHAL KUMAR", "242152200", "12500124075", "241250110156 of 2024-25", "Done"),
+    ("SACHIN KUMAR", "242121147", "12500124076", "241250110127 of 2024-25", "Done"),
+    ("SAGAR MODI", "242123149", "12500124077", "241250110129 of 2024-25", "Done"),
+    ("NITISH KUMAR", "242093113", "12500124078", "241250110099 of 2024-25", "Done"),
+    ("GULSHAN KUMAR", "242066079", "12500124079", "241250110066 of 2024-25", "Done"),
+    ("ARYAN SHARMA", "242034042", "12500124080", "241250110035 of 2024-25", "Done (150 )"),
+    ("MD UMAIR ALAM", "242083102", "12500124081", "241250110090 of 2024-25", "Done Cash"),
+    ("KUMUD RAJ", "242073090", "12500124082", "241250110077 of 2024-25", "Done"),
+    ("KHUSHI KUMARI", "242156204", "12500124083", "241250110073 of 2024-25", "Done"),
+    ("NIRMAL RAJ", "242166211", "12500124084", "241250110095 of 2024-25", "Done"),
+    ("ROUSHAN KUMAR", "242118144", "12500124085", "241250110125 of 2024-25", "Done"),
+    ("VIVEK KUMAR", "242153201", "12500124086", "241250110157 of 2024-25", "Done"),
+    ("ASHIKA SANRAJ", "242036045", "12500124087", "241250110037 of 2024-25", "Done"),
+    ("ABHISHEK KUMAR", "242007008", "12500124088", "241250110008 of 2024-25", "Done"),
+    ("ASHISH KUMAR", "242038047", "12500124089", "241250110038 of 2024-25", "Done"),
+    ("CHANDAN KUMAR(S/O RAJENDRA KUMAR)", "242051062", "12500124090", "241250110049 of 2024-25", "Done"),
+    ("SUMIT KUMAR MAHATO", "242145189", "12500124091", "241250110151 of 2024-25", "Done"),
+    ("KRISH HARRY", "242072088", "12500124092", "241250110074 of 2024-25", "Done (150 )"),
+    ("KABERI SAHIS", "242070085", "12500124093", "241250110071 of 2024-25", "Done"),
+    ("PRIYANSHU", "242102127", "12500124094", "241250110108 of 2024-25", "Done"),
+    ("PUSHPAJA ROY CHOUDHURY", "242104130", "12500124095", "241250110110 of 2024-25", "Done"),
+    ("RAHUL KUMAR YADAV", "242105131", "12500124096", "241250110111 of 2024-25", "Done"),
+    ("RAJDEEP ROY", "242106132", "12500124097", "241250110112 of 2024-25", "No"),
+    ("NISCHAYATA BISWAS", "242091111", "12500124098", "241250110097 of 2024-25", "No"),
+    ("MONOTOSH GHOSH", "242087107", "12500124099", "241250110093 of 2024-25", "Done"),
+    ("KUNAL MAHATO", "242075092", "12500124100", "241250110079 of 2024-25", "Done"),
+    ("PRATHAMA MAZUMDAR", "242098119", "12500124101", "241250110103 of 2024-25", "No"),
+    ("PRITAM DAS", "242100123", "12500124102", "241250110106 of 2024-25", "Done"),
+
+    # Page 4
+    ("PRITAM GHOSH", "242101124", "12500124103", "241250110107 of 2024-25", "Done"),
+    ("JIT BHOURA", "242068083", "12500124104", "241250110069 of 2024-25", "Left"),
+    ("JOYMALYA DAS", "242069084", "12500124105", "241250110070 of 2024-25", "Done"),
+    ("DILSHAD HUSSAIN", "242059071", "12500124106", "241250110060 of 2024-25", "Done"),
+    ("DEBANJAN DATTA(S/O J. Datta)", "242052063", "12500124107", "241250110051 of 2024-25", "Done"),
+    ("FAIZ AHMED", "242061074", "12500124108", "241250110062 of 2024-25", "Done"),
+    ("GAURAV SINGH", "242063076", "12500124109", "241250110063 of 2024-25", "Done (150 )"),
+    ("DEBANJAN ROY", "242167065", "12500124110", "241250110053 of 2024-25", "Done"),
+    ("DEBASHRITA MANDAL", "242054066", "12500124111", "241250110054 of 2024-25", "Done"),
+    ("DEBAYAN PAUL", "242055067", "12500124112", "241250110055 of 2024-25", "Done"),
+    ("DEBDIBAKAR KUNDU", "242056068", "12500124113", "241250110056 of 2024-25", "Done"),
+    ("DEEP MANNA", "242057069", "12500124114", "241250110057 of 2024-25", "Done"),
+    ("DEEP PAL", "242058070", "12500124115", "241250110058 of 2024-25", "Done"),
+    ("SHAMMA PARWEEN", "242130161", "12500124116", "241250110136 of 2024-25", "Done"),
+    ("SURESH KOLEY", "242147192", "12500124117", "241250110153 of 2024-25", "Done"),
+    ("SOUMIK GHOSH", "242136173", "12500124118", "241250110141 of 2024-25", "Done"),
+    ("SHYAMAPADA DHAN", "242133167", "12500124119", "241250110139 of 2024-25", "Done"),
+    ("SANCHARI RAY", "242124152", "12500124120", "241250110130 of 2024-25", "Left"),
+    ("SANGEETA TAPADAR", "242125154", "12500124121", "241250110131 of 2024-25", "Done"),
+    ("SANGRAM DATTA", "242126155", "12500124122", "241250110132 of 2024-25", "Done"),
+    ("SOURAV MAL", "242139178", "12500124123", "241250110144 of 2024-25", "Done"),
+    ("SOUVIK BHATTACHARJEE", "242140179", "12500124124", "241250110145 of 2024-25", "Done"),
+    ("SOUVIK DUTTA", "242141180", "12500124125", "241250110146 of 2024-25", "Done"),
+    ("SOWKAT SAHIL", "242150195", "12500124126", "241250110147 of 2024-25", "Done"),
+    ("SUDHINDRA NATH GHOSH", "242142185", "12500124127", "241250110148 of 2024-25", "Done"),
+    ("SUDIPTA BANERJEE", "242143186", "12500124128", "241250110149 of 2024-25", "Done"),
+    ("SUDIPTA MONDAL", "242144187", "12500124129", "241250110150 of 2024-25", "Done"),
+    ("TIYASHA CHATTERJEE", "242151198", "12500124130", "241250110155 of 2024-25", "Done Cash"),
+    ("BISHNUPADA DEY", "242046057", "12500124131", "241250110045 of 2024-25", "Done"),
+    ("BISWARUP MANDAL", "242047058", "12500124132", "241250110046 of 2024-25", "Done"),
+    ("AYUSH KUMAR(S/O B.K. Singh)", "242040050", "12500124133", "241250110040 of 2024-25", "Done"),
+    ("AMAN ARYAN", "242018024", "12500124134", "241250110019 of 2024-25", "Done"),
+    ("ANUNITA BANERJEE", "242027033", "12500124135", "241250110029 of 2024-25", "Done"),
+
+    # Page 5
+    ("ANUSKA BANERJEE", "242028034", "12500124136", "241250110030 of 2024-25", "Done"),
+    ("ARGHADEEP SARKAR", "242029035", "12500124137", "241250110031 of 2024-25", "Done"),
+    ("ARITRA NAYAK", "242030036", "12500124138", "241250110032 of 2024-25", "Done"),
+    ("ANINDITA CHOWDHURY", "242021027", "12500124139", "241250110022 of 2024-25", "Done"),
+    ("ANIRUDDHA MUKHERJEE", "242022028", "12500124140", "241250110023 of 2024-25", "Done"),
+    ("ADITYA UPADHYAY", "242014018", "12500124141", "241250110015 of 2024-25", "Done"),
+    ("AISHIK MUKHERJEE", "242015020", "12500124142", "241250110016 of 2024-25", "Done"),
+    ("ARYAN PRADHAN", "242033041", "12500124143", "241250110034 of 2024-25", "Done"),
+    ("SAGAR KUMAR LAHA", "242122148", "12500124144", "241250110128 of 2024-25", "Done"),
+    ("MD JUNAID DEWAN", "242081099", "12500124145", "241250110086 of 2024-25", "Done"),
+    ("NOOR JAHAN KHATUN", "242095115", "12500124146", "241250110100 of 2024-25", "Done"),
+    ("NISITA BASAK", "242092112", "12500124147", "241250110098 of 2024-25", "Done Cash"),
+    ("RAJDIP CHAUDHURY", "242107133", "12500124148", "241250110113 of 2024-25", "Done"),
+    ("ROUNAK YADAV", "242117143", "12500124149", "241250110124 of 2024-25", "Done"),
+    ("DEV CHHETRI", "242164210", "12500124150", "241250110059 of 2024-25", "Done"),
+    ("SOUMOJIT CHARCHARI", "242137174", "12500124151", "241250110142 of 2024-25", "Done"),
+    ("BRISHTI GARAI", "242048059", "12500124152", "241250110047 of 2024-25", "Done Cash"),
+    ("BARSHA KHAN", "242043053", "12500124153", "241250110043 of 2024-25", "Done"),
+    ("ARPITA HALDER", "242031039", "12500124154", "241250110033 of 2024-25", "Done"),
+    ("SUSANTA MANDAL", "242149194", "12500124155", "241250110154 of 2024-25", "Done"),
+    ("SAYANTAN HALDER", "242129160", "12500124156", "241250110135 of 2024-25", "Done ( 200 )"),
+    ("RUPAM RANA", "242120146", "12500124157", "241250110126 of 2024-25", "Done"),
+    ("NITISH KUMAR SAH", "242094114", "12500124158", "241250110209 of 2024-25", "Done"),
+
+    # Page 5 & 6 (Lateral Entry Students - CSE)
+    ("SURYA DEO KUMAR (L.E.)", "", "12500125145", "", "Done"),
+    ("HIMANSHU SHEKHAR (L.E.)", "", "12500125146", "", "Done"),
+    ("JOYJEET MONDAL (L.E.)", "", "12500125147", "", "Done"),
+    ("AMARESH GHOSH (L.E.)", "", "12500125148", "", "Done"),
+    ("PRANAY ROY (L.E.)", "", "12500125149", "", "Done"),
+    ("BIJAN SAHA (L.E.)", "", "12500125150", "", "Done"),
+    ("ABHISHEK KUMAR SINGH (L.E.)", "", "12500125151", "", "Done"),
+    ("SNEHA KHATUN (L.E.)", "", "12500125152", "", "Done"),
+    ("MD ADNAN ALI ANSARI (L.E.)", "", "12500125153", "", "Done cash$$$"),
+    ("RONOJEET MONDAL (L.E.)", "", "12500125154", "", "Done"),
+    ("MONIKA DAS (L.E.)", "", "12500125155", "", "Done"),
+    ("ARIJIT PAUL (L.E.)", "", "12500125156", "", "Done"),
+    ("DEBMALLYA SINHA (L.E.)", "", "12500125157", "", "Done"),
+]
+
+# CSE (AI&ML) Students (Page 7)
+aiml_raw = [
+    # Regular students
+    ("ADITYA KUMAR SINHA", "241001014", "12530824001", "241250110158 of 2024-25", "Done"),
+    ("ADITYA SINGH", "241003017", "12530824002", "241250110160 of 2024-25", "Done (150 )"),
+    ("AYUSH KUMAR(S/O A.K. PANDIT)", "241026049", "12530824003", "241250110165 of 2024-25", "Left"),
+    ("HARI OM JHA", "241009080", "12530824004", "241250110166 of 2024-25", "Done (150 )"),
+    ("SWATI KUMARI", "241023196", "12530824005", "241250110178 of 2024-25", "Done"),
+    ("TANISHA KUMARI", "241024197", "12530824006", "241250110179 of 2024-25", "Done"),
+    ("MD ZISHAN", "241011104", "12530824007", "241250110168 of 2024-25", "Done"),
+    ("SHIVAM KUMAR", "241017164", "12530824008", "241250110173 of 2024-25", "Done"),
+    ("ADITYA SHARMA", "241002016", "12530824009", "241250110159 of 2024-25", "Done"),
+    ("AGNIV SHEE", "241004019", "12530824010", "241250110161 of 2024-25", "Done (150 )"),
+    ("ARPAN KUNDU", "241005037", "12530824011", "241250110162 of 2024-25", "Done (150 )"),
+    ("SONU KUMAR", "241019172", "12530824012", "241250110175 of 2024-25", "Done"),
+    ("SOUVIK GHOSH", "241021181", "12530824013", "241250110176 of 2024-25", "Done"),
+    ("SUMAN CHATTERJEE", "241022188", "12530824014", "241250110177 of 2024-25", "Left"),
+    ("PRITAM GHOSH(S/O PURNENDU)", "241013125", "12530824015", "241250110170 of 2024-25", "Done"),
+    ("PRIYOJEET MONDAL", "241014129", "12530824016", "241250110171 of 2024-25", "Done (150 )"),
+    ("SAMIR MISHRA", "241015151", "12530824017", "241250110172 of 2024-25", "Left"),
+    ("ASHISH KUMAR YADAV", "241007048", "12530824018", "241250110164 of 2024-25", "Done"),
+    ("SK FIRDOSH ALI", "241018168", "12530824019", "241250110174 of 2024-25", "Done"),
+    ("KESHAB CHANDRA GHOSH", "241010087", "12530824020", "241250110167 of 2024-25", "Done"),
+    ("ARYAN SHAW", "241006043", "12530824021", "241250110163 of 2024-25", "Done (150 )"),
+    ("PRALAY BAR", "241012118", "12530824022", "241250110169 of 2024-25", "Done"),
+    ("TUSHAR BADYAKAR", "241025199", "12530824023", "241250110180 of 2024-25", "Left"),
+
+    # Lateral entry students
+    ("SHASHANK KUMAR SHEKHAR", "", "12530825033", "", "Done"),
+    ("SUBASHISH MAZUMDAR", "", "12530825034", "", "Done"),
+]
+
+# IT Students (Page 8)
+it_raw = [
+    ("AAYUSHI KUMARI", "244001005", "12500224005", "241250110189 of 2024-25", "Done"),
+    ("BIPUL KUMAR", "244002056", "12500224006", "241250110190 of 2024-25", "Done"),
+    ("DRISTI SAHA", "244003073", "12500224007", "241250110191 of 2024-25", "Done"),
+    ("SANDIP SARKAR", "244004153", "12500224010", "241250110192 of 2024-25", "Done"),
+    ("SAYAK BAIRY", "244005159", "12500224008", "241250110193 of 2024-25", "Done ( 150 )"),
+    ("SHWETA GOYAL", "244006166", "12500224001", "241250110194 of 2024-25", "Done"),
+    ("SOHAM GHOSH", "244007169", "12500224009", "241250110195 of 2024-25", "Done"),
+    ("SOURABH KUMAR", "244008176", "12500224004", "241250110196 of 2024-25", "Done"),
+    ("SREE BISWAS", "244009182", "12500224011", "241250110197 of 2024-25", "Done Cash"),
+    ("SUBHAJIT BANERJEE", "244010184", "12500224002", "241250110198 of 2024-25", "Done"),
+    ("SURAJ SHARMA", "244011191", "12500224003", "241250110199 of 2024-25", "Done"),
+]
+
+all_students = []
+idx = 0
+
+for i, item in enumerate(cse_raw):
+    sec = "CSE A" if i < 57 else ("CSE B" if i < 114 else "CSE C")
+    all_students.append(make_student(idx, item[0], item[1], item[2], item[3], sec, item[4]))
+    idx += 1
+
+for item in aiml_raw:
+    all_students.append(make_student(idx, item[0], item[1], item[2], item[3], "AIML", item[4]))
+    idx += 1
+
+for item in it_raw:
+    all_students.append(make_student(idx, item[0], item[1], item[2], item[3], "IT", item[4]))
+    idx += 1
+
+print(f"Total students processed: {len(all_students)}")
+print(f"CSE: {len(cse_raw)}, CSE (AI&ML): {len(aiml_raw)}, IT: {len(it_raw)}")
+
+# Write to src/campusflow/studentsData.js
+js_content = "// Student Directory Data extracted from official BCET academic records\n"
+js_content += "export const students = " + json.dumps(all_students, indent=2) + ";\n"
+
+with open("src/campusflow/studentsData.js", "w", encoding="utf-8") as f:
+    f.write(js_content)
+
+print("Saved to src/campusflow/studentsData.js successfully!")

@@ -1,0 +1,6620 @@
+{
+  "3rd_CSE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structure & Algorithms",
+      "faculty": "SD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "PK (BA)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "APTI",
+      "subject": "Aptitude Training",
+      "faculty": "AD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "SMR (EC)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS / Self Learning",
+      "faculty": "Faculty In-Charge",
+      "room": "LH-111",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-391",
+      "subject": "Analog & Digital Electronics Lab",
+      "faculty": "SMR(EC) + BK(PEC) + KA(EC)",
+      "room": "Electronics Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "SD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "PK (BA)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "PK (BA)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "SMR (EC)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor-Mentee Interaction",
+      "faculty": "Mentor Committee",
+      "room": "LH-111",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 393",
+      "subject": "IT Workshop / Web Development (VAC)",
+      "faculty": "SKM(CS) + MD(CS) + SG(CS)",
+      "room": "Software Lab 1",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "C-RECAP",
+      "subject": "C Programming Recap",
+      "faculty": "AMK (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "SD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading Session",
+      "faculty": "Library In-Charge",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 392",
+      "subject": "Computer Organization Lab",
+      "faculty": "BK(PEC) + KA(EC)",
+      "room": "Hardware Lab 2",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "SD (M)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "PK (BA)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APTI",
+      "subject": "Aptitude Skills",
+      "faculty": "BM (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 391",
+      "subject": "Data Structure & Algorithm Lab",
+      "faculty": "MD(CS) + OJ(CS) + RB(IT)",
+      "room": "Software Lab 2",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structures",
+      "faculty": "SD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "SD (M)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "SMR (EC)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MD (CS)",
+      "room": "LH-111",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Portal Learning",
+      "faculty": "Coordinator",
+      "room": "LH-111",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-391",
+      "subject": "Analog & Digital Lab (Batch 2)",
+      "faculty": "SMR(EC) + KA(EC)",
+      "room": "Electronics Lab",
+      "type": "Lab"
+    }
+  ],
+  "3rd_IT": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structure & Algorithms",
+      "faculty": "SOP (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "AG (M)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MM (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "C-RECAP",
+      "subject": "Programming Foundations",
+      "faculty": "PKC (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Library Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-391",
+      "subject": "Analog & Digital Electronics Lab",
+      "faculty": "MM(CS) + SD(CS) + KK(IT)",
+      "room": "Lab 3 & 4",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "AG (M)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MM (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structure & Algorithms",
+      "faculty": "SOP (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "PK (BA)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "PK (BA)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "APTI",
+      "subject": "Aptitude Training",
+      "faculty": "MD (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "04:10 PM - 05:20 PM",
+      "code": "VAC",
+      "subject": "Web Development (VAC)",
+      "faculty": "SC (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MM (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structure & Algorithms",
+      "faculty": "SOP (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APTI",
+      "subject": "Aptitude Skills",
+      "faculty": "OJ (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-WEB",
+      "subject": "Web Development Practical (VAC)",
+      "faculty": "SC (CS)",
+      "room": "Lab 4",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "AG (M)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 392",
+      "subject": "Computer Organization Lab (Prep)",
+      "faculty": "AM(EC) + KA(EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 392",
+      "subject": "Computer Organization Lab (Part II)",
+      "faculty": "SP(EC) + KA(EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction",
+      "faculty": "Mentor Faculty",
+      "room": "LH-123",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 393",
+      "subject": "IT Workshop (Python / MATLAB)",
+      "faculty": "SC(CS) + PC(CS) + SM(IT)",
+      "room": "Software Lab 3",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 301",
+      "subject": "Discrete Mathematics",
+      "faculty": "MM (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 302",
+      "subject": "Data Structure & Algorithms",
+      "faculty": "SOP (CS)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "PK (BA)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (EC)",
+      "room": "LH-123",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 393",
+      "subject": "IT Workshop Lab (Batch 2)",
+      "faculty": "SC(CS) + SM(IT)",
+      "room": "Software Lab 4",
+      "type": "Lab"
+    }
+  ],
+  "3rd_ECE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-301",
+      "subject": "Electronic Devices",
+      "faculty": "VPR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 301",
+      "subject": "Data Structures & Algorithms",
+      "faculty": "AD (CS)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-303",
+      "subject": "Digital System Design",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-304",
+      "subject": "Signals & Systems",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MC-381",
+      "subject": "Environmental Science",
+      "faculty": "DD (CH)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 391",
+      "subject": "Data Structures Lab",
+      "faculty": "AC(CS) + SP(EC)",
+      "room": "Computer Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-303",
+      "subject": "Digital System Design",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-392",
+      "subject": "Digital System Design Lab",
+      "faculty": "AM (EC)",
+      "room": "LH-240",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-303",
+      "subject": "Digital System Design",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-304",
+      "subject": "Signals & Systems",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "EC-302",
+      "subject": "Network Theory",
+      "faculty": "SMR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-391",
+      "subject": "Electronic Devices Lab",
+      "faculty": "VPR (EC)",
+      "room": "Devices Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III (ECE)",
+      "faculty": "KCF (M)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-301",
+      "subject": "Electronic Devices",
+      "faculty": "VPR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III (ECE)",
+      "faculty": "KCF (M)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 301",
+      "subject": "Data Structures",
+      "faculty": "AD (CS)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MC-381",
+      "subject": "Environmental Science",
+      "faculty": "DD (CH)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "VAC-EC301",
+      "subject": "Industry Expectation & VAC",
+      "faculty": "SMR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-302",
+      "subject": "Network Theory",
+      "faculty": "SMR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-302",
+      "subject": "Network Theory",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-304",
+      "subject": "Signals & Systems",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-301",
+      "subject": "Electronic Devices",
+      "faculty": "VPR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC-EC301",
+      "subject": "Industry Expert Seminar",
+      "faculty": "SMR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "KCF (M)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-302",
+      "subject": "Network Theory",
+      "faculty": "SMR (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 301",
+      "subject": "Data Structures",
+      "faculty": "AD (CS)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-303",
+      "subject": "Digital System Design",
+      "faculty": "GCD (EC)",
+      "room": "LH-240",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-393",
+      "subject": "Analog Electronics Design Lab",
+      "faculty": "AM (EC)",
+      "room": "Circuits Lab",
+      "type": "Lab"
+    }
+  ],
+  "3rd_ME": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-301",
+      "subject": "Thermodynamics",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSBIO-301",
+      "subject": "Biology for Engineers",
+      "faculty": "NB (CHEM)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESECE-301",
+      "subject": "Basic Electronics",
+      "faculty": "VPR (ECE)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "RG (MATH)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "VACME-301",
+      "subject": "Value Added Mechanical CAD",
+      "faculty": "MG (ME)",
+      "room": "CAD Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-302",
+      "subject": "Strength of Materials",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-391",
+      "subject": "Machine Drawing Practice",
+      "faculty": "AR(ME) + DP(ME)",
+      "room": "Drawing Hall",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSBIO-301",
+      "subject": "Biology for Engineers",
+      "faculty": "NB (CHEM)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCME-302",
+      "subject": "Strength of Materials",
+      "faculty": "AR (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "RG (MATH)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VACME-301",
+      "subject": "AutoCAD & SolidWorks Lab",
+      "faculty": "MG (ME)",
+      "room": "CAD Center",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "MG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME-301",
+      "subject": "Thermodynamics",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "MG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VACME-301",
+      "subject": "Advanced Manufacturing Tools",
+      "faculty": "MG (ME)",
+      "room": "Workshop",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "RG (MATH)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "MOOCS",
+      "subject": "NPTEL / MOOCS Course",
+      "faculty": "Faculty",
+      "room": "LH-225",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESECE-301",
+      "subject": "Basic Electronics",
+      "faculty": "VPR (ECE)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME-301",
+      "subject": "Thermodynamics",
+      "faculty": "SG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCME-301",
+      "subject": "Thermodynamics",
+      "faculty": "MG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCME-302",
+      "subject": "Strength of Materials",
+      "faculty": "AR (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction",
+      "faculty": "ME Faculty",
+      "room": "LH-225",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-301",
+      "subject": "Thermodynamics",
+      "faculty": "MG (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-302",
+      "subject": "Strength of Materials",
+      "faculty": "AR (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESECE-301",
+      "subject": "Basic Electronics",
+      "faculty": "VPR (ECE)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "RG (MATH)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "BSBIO-301",
+      "subject": "Biology for Engineers",
+      "faculty": "AR (ME)",
+      "room": "LH-225",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCME-392",
+      "subject": "Material Testing Lab",
+      "faculty": "SG(ME) + MG(ME)",
+      "room": "Testing Lab",
+      "type": "Lab"
+    }
+  ],
+  "3rd_CE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(BS)302",
+      "subject": "Mathematics-III (Civil)",
+      "faculty": "PD (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(BS)301",
+      "subject": "Biology for Civil Engineers",
+      "faculty": "NB (BIO)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSC-301",
+      "subject": "Applied Mathematics",
+      "faculty": "KCF (MATH)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(ES)301",
+      "subject": "Basic Electronics",
+      "faculty": "SG (ME)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(ES)392",
+      "subject": "Solid Mechanics Lab",
+      "faculty": "SD (CE)",
+      "room": "Civil Lab 1",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(BS)302",
+      "subject": "Mathematics-III",
+      "faculty": "KCF (MATH)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(BS)301",
+      "subject": "Biology for Civil Engineers",
+      "faculty": "NB (BIO)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(HS)302",
+      "subject": "Humanities & Ethics",
+      "faculty": "SD (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(ES)301",
+      "subject": "Basic Electronics",
+      "faculty": "SG (ME)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(ES)393",
+      "subject": "Civil Engineering Lab Practice",
+      "faculty": "NB (BIO)",
+      "room": "Civil Lab 2",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(ES)301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SG (ME)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(ES)301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SC (ENG)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(BS)301",
+      "subject": "Biology for Civil Engineers",
+      "faculty": "NB (BIO)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(ES)301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SG (ME)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(ES)391",
+      "subject": "Electronics & Instrumentation Lab",
+      "faculty": "VPR (ECE)",
+      "room": "Electronics Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(ES)302",
+      "subject": "Strength of Materials",
+      "faculty": "SG (ME)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-301",
+      "subject": "Applied Mathematics",
+      "faculty": "KCF (MATH)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(HS)302",
+      "subject": "Humanities & Ethics",
+      "faculty": "SD (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(ES)301",
+      "subject": "Basic Engineering",
+      "faculty": "SC (ENG)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "INTERACT",
+      "subject": "Student Teacher Interaction",
+      "faculty": "Faculty In-Charge",
+      "room": "LH-531",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(ES)302",
+      "subject": "Strength of Materials",
+      "faculty": "SD (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(HS)302",
+      "subject": "Humanities & Professional Ethics",
+      "faculty": "MK (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(HS)301",
+      "subject": "Civil Engineering Materials",
+      "faculty": "SD (CE)",
+      "room": "LH-531",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC-CE302",
+      "subject": "Value Added Surveying Practice",
+      "faculty": "SD (CE)",
+      "room": "Campus Field",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Portal Online Courses",
+      "faculty": "Coordinator",
+      "room": "LH-531",
+      "type": "Seminar"
+    }
+  ],
+  "3rd_AIML": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-AIML301",
+      "subject": "Linear Algebra & Probability",
+      "faculty": "PKS (M)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures for AI",
+      "faculty": "AB (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS302",
+      "subject": "Digital Electronics for AI",
+      "faculty": "SMR (ECE)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Soft Skills & Professional Grooming",
+      "faculty": "NF",
+      "room": "LH-131",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS302",
+      "subject": "Computer Organization & Arch.",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-391",
+      "subject": "Analog & Digital Electronics Lab",
+      "faculty": "SKHC(AIML) + IM(AIML)",
+      "room": "Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures for AI",
+      "faculty": "AB (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESC-301",
+      "subject": "Analog Electronics",
+      "faculty": "SMR (ECE)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS302",
+      "subject": "Computer Organization",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Communication & Interview Prep",
+      "faculty": "TC (AIML)",
+      "room": "LH-131",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "NF",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-MINI",
+      "subject": "Mini Project in Artificial Intelligence",
+      "faculty": "SKHC(AIML) + IM(AIML)",
+      "room": "AI Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-AIML301",
+      "subject": "Linear Algebra & Probability",
+      "faculty": "PKS (M)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-AIML301",
+      "subject": "Linear Algebra & Probability",
+      "faculty": "PKS (M)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures & Algorithms",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Professional Grooming",
+      "faculty": "IM (AIML)",
+      "room": "LH-131",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Research & Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS393",
+      "subject": "Data Structures with Python Lab",
+      "faculty": "DD(IT) + IM(AIML)",
+      "room": "Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "NF",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSC-AIML301",
+      "subject": "Discrete Mathematics for AI",
+      "faculty": "PKS (M)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-301",
+      "subject": "Analog Electronics",
+      "faculty": "SMR (ECE)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS302",
+      "subject": "Computer Organization",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Meeting",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures for AI",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics Workshop",
+      "faculty": "GCD(ECE) + KA(ECE)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS392",
+      "subject": "Computer Architecture Lab Prep",
+      "faculty": "AM (AIML)",
+      "room": "LH-131",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS391",
+      "subject": "AI Programming Foundation Lab",
+      "faculty": "AB(AIML) + KK(IT)",
+      "room": "Lab 11",
+      "type": "Lab"
+    }
+  ],
+  "3rd_DS": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS302",
+      "subject": "Data Structures for Data Science",
+      "faculty": "FK (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (ECE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "NF (BA)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "VAC",
+      "subject": "Web Development for Data Science",
+      "faculty": "RR (CSE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "BSC-301",
+      "subject": "Mathematics for Data Science",
+      "faculty": "SD (MATH)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS391",
+      "subject": "Algorithms & Data Structures Lab",
+      "faculty": "PKC + OM + PKP",
+      "room": "Lab 7 & 8",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS301",
+      "subject": "Foundations of Data Science",
+      "faculty": "OM (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-DS301",
+      "subject": "Introduction to Data Science",
+      "faculty": "OM (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-301",
+      "subject": "Economics for Engineers",
+      "faculty": "NF (BA)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (ECE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures & Analysis",
+      "faculty": "OM (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentoring DS Cohort",
+      "faculty": "PKP (CSE DS)",
+      "room": "LH-122",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS301",
+      "subject": "Data Structures",
+      "faculty": "OM (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-DS301",
+      "subject": "Data Analysis Fundamentals",
+      "faculty": "OM (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (ECE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "BSC-301",
+      "subject": "Mathematics-III",
+      "faculty": "SD (MATH)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS302",
+      "subject": "Database & Data Org.",
+      "faculty": "FK",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-391",
+      "subject": "Analog & Digital Electronics Lab",
+      "faculty": "AM(ECE) + SP(ECE) + KA(ECE)",
+      "room": "Hardware Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS302",
+      "subject": "Data Structures",
+      "faculty": "FK (CSE DS)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "C-RECAP",
+      "subject": "Python & C for Data Analysis",
+      "faculty": "OM",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-301",
+      "subject": "Digital Electronics",
+      "faculty": "AM (ECE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "VAC",
+      "subject": "Web Development & APIs",
+      "faculty": "AD (CSE)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-DS391",
+      "subject": "Data Science Laboratory (Python / R)",
+      "faculty": "OM (CSE DS)",
+      "room": "Data Science Lab 9",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSC-301",
+      "subject": "Probability & Statistics",
+      "faculty": "SD (MAT)",
+      "room": "LH-122",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS392",
+      "subject": "Computer Organization Lab",
+      "faculty": "SMR(ECE) + SP(ECE)",
+      "room": "Hardware Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MENTOR",
+      "subject": "Mentor & Mentoring Session",
+      "faculty": "DS Faculty",
+      "room": "LH-122",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "APTI",
+      "subject": "Analytical & Aptitude Workshop",
+      "faculty": "FK (CSE DS)",
+      "room": "LH-122",
+      "type": "Seminar"
+    }
+  ],
+  "3rd_EE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "BSE-301",
+      "subject": "Chemistry / Biology",
+      "faculty": "NB (CHE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III (EE)",
+      "faculty": "KCF (M)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "POEE-302",
+      "subject": "Electric Circuit Theory",
+      "faculty": "AM (ECE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MC-EE301",
+      "subject": "Constitution of India",
+      "faculty": "SC (ENG)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCEE-301",
+      "subject": "Electrical Circuit Analysis",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCCE-391",
+      "subject": "Electric Circuits Lab",
+      "faculty": "RS (EE)",
+      "room": "Machines Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-302",
+      "subject": "Analog Electronics for EE",
+      "faculty": "SMM (E)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "AM (ECE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "KCF (M)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "BSE-301",
+      "subject": "Applied Chemistry",
+      "faculty": "NB (CHE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCEE-303",
+      "subject": "Electromagnetic Fields",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-591",
+      "subject": "Software Engineering Lab",
+      "faculty": "SM (IT)",
+      "room": "Lab 9",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SMM (ME)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "AM (ECE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "BSM-301",
+      "subject": "Mathematics-III",
+      "faculty": "KCF (M)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-301",
+      "subject": "Electrical Circuits",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-EE03",
+      "subject": "Mini Project & Value Added Workshop",
+      "faculty": "AS(EE) + NF(EE)",
+      "room": "EE Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-301",
+      "subject": "Electrical Circuits",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCEE-303",
+      "subject": "Electromagnetic Fields",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SMM (E)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-303",
+      "subject": "Electromagnetic Fields",
+      "faculty": "SC (ENG)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-EE03",
+      "subject": "Value Added Electrical Automation",
+      "faculty": "NF (EE)",
+      "room": "EE Automation Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-301",
+      "subject": "Electrical Circuits",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "MC-EE301",
+      "subject": "Professional Ethics & Constitution",
+      "faculty": "SC (ENG)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESME-301",
+      "subject": "Engineering Mechanics",
+      "faculty": "SMM (E)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-303",
+      "subject": "Electromagnetic Fields",
+      "faculty": "RS (EE)",
+      "room": "LH-222",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "APT",
+      "subject": "Aptitude Assessment",
+      "faculty": "EE Faculty",
+      "room": "LH-222",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCEE-392",
+      "subject": "Analog Electronics Lab",
+      "faculty": "AM (ECE)",
+      "room": "Electronics Lab",
+      "type": "Lab"
+    }
+  ],
+  "5th_CSE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "HSMC-501",
+      "subject": "Introduction to Industrial Management",
+      "faculty": "NF (BA)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "RR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF (BA)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 592",
+      "subject": "Operating Systems Lab",
+      "faculty": "RKM(CS) + SBK(CS) + RR(CS)",
+      "room": "Lab 13 & 14",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "RR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence Elective",
+      "faculty": "BR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF (BA)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF (BA)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 593",
+      "subject": "Object Oriented Programming Lab",
+      "faculty": "OJ(CS) + PC(CS) + SD(CS)",
+      "room": "Lab 7 & 8",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "OJ (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "BR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "OJ (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC",
+      "subject": "Edge Computing & Cloud VAC",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "VAC",
+      "subject": "Edge Computing Practical",
+      "faculty": "AMK (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "04:10 PM - 05:20 PM",
+      "code": "MC-CS 501",
+      "subject": "Constitution of India",
+      "faculty": "AA (E)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "OJ (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "OJ (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MC-CS 501",
+      "subject": "Constitution of India",
+      "faculty": "AA (E)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-591",
+      "subject": "Software Engineering Lab",
+      "faculty": "BR(CS) + SD(CS) + SP(CS)",
+      "room": "Lab 3 & 4",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "RKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RR (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "VAC",
+      "subject": "Edge Computing Practical",
+      "faculty": "SKM (CS)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "03:20 PM - 04:10 PM",
+      "code": "MC-CS 501",
+      "subject": "Constitution of India",
+      "faculty": "AA (E)",
+      "room": "LH-124",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "04:10 PM - 05:20 PM",
+      "code": "LIB",
+      "subject": "Self-Study & Revision",
+      "faculty": "Staff",
+      "room": "LH-124",
+      "type": "Library"
+    }
+  ],
+  "5th_IT": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "SC (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "MC-CS 501",
+      "subject": "Constitution of India",
+      "faculty": "AA (E)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "SC (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RB (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF1 (BA)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction & VAC",
+      "faculty": "SP (IT)",
+      "room": "LH-121",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "DD (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "SC (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Portal Online Courses",
+      "faculty": "Faculty",
+      "room": "LH-121",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-IT",
+      "subject": "Value Added Course: Full Stack SP(IT)",
+      "faculty": "SP (IT)",
+      "room": "Lab 5",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF1 (BA)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "DD (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RB (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MC-CS 501",
+      "subject": "Constitution of India",
+      "faculty": "AA (E)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "REM",
+      "subject": "Remedial Coaching Class",
+      "faculty": "Department",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 593",
+      "subject": "Java Programming Lab",
+      "faculty": "DD(IT) + RB(IT)",
+      "room": "Software Lab 5",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF1 (BA)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "SC (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "RB (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-IT 501B",
+      "subject": "Artificial Intelligence",
+      "faculty": "RB (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS 592",
+      "subject": "Operating Systems Lab (Linux)",
+      "faculty": "RB (IT)",
+      "room": "Lab 5",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS 503",
+      "subject": "Object Oriented Programming",
+      "faculty": "DD (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS 502",
+      "subject": "Operating Systems",
+      "faculty": "SC (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "RB (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS 501",
+      "subject": "Compiler Design",
+      "faculty": "KK (IT)",
+      "room": "LH-121",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "Self Learning & Certification",
+      "faculty": "Coordinator",
+      "room": "LH-121",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-591",
+      "subject": "Software Engineering Lab",
+      "faculty": "SS(IT) + SP(IT)",
+      "room": "Lab 5",
+      "type": "Lab"
+    }
+  ],
+  "5th_ECE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-501",
+      "subject": "Electromagnetic Waves",
+      "faculty": "SMR (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEEC-506C",
+      "subject": "Open Elective: Soft Computing",
+      "faculty": "NF (BA)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-503",
+      "subject": "Digital Signal Processing",
+      "faculty": "BK (PEC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-505C",
+      "subject": "Professional Elective",
+      "faculty": "KK (EE)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "EC-503",
+      "subject": "Digital Signal Processing",
+      "faculty": "BK (PEC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MCHU-581",
+      "subject": "Effective Technical Communication",
+      "faculty": "SSB (ENG)",
+      "room": "Language Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "VAC-EC501",
+      "subject": "FPGA Architecture & Design",
+      "faculty": "SMR (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-504",
+      "subject": "Information Theory & Coding",
+      "faculty": "GCD (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEEC-506C",
+      "subject": "Open Elective",
+      "faculty": "NF (BA)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-505C",
+      "subject": "Professional Elective",
+      "faculty": "KK (EE)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "EC-501",
+      "subject": "Electromagnetic Waves",
+      "faculty": "SMR (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-592",
+      "subject": "Digital Communication Lab",
+      "faculty": "GCD (EC)",
+      "room": "Communication Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-501",
+      "subject": "Electromagnetic Waves",
+      "faculty": "SMR (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-503",
+      "subject": "Digital Signal Processing",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "KK (EE)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "EC-504",
+      "subject": "Information Theory & Coding",
+      "faculty": "GCD (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-EC501",
+      "subject": "FPGA Embedded Lab",
+      "faculty": "SMR (EC)",
+      "room": "Embedded Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-503",
+      "subject": "Digital Signal Processing",
+      "faculty": "BK (PEC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-593",
+      "subject": "DSP Laboratory (MATLAB)",
+      "faculty": "GCD (EC)",
+      "room": "DSP Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-504",
+      "subject": "Information Theory & Coding",
+      "faculty": "GCD (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "EC-504",
+      "subject": "Information Theory & Coding",
+      "faculty": "GCD (EC)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "EC-502",
+      "subject": "Computer Architecture",
+      "faculty": "BM (CS)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-505C",
+      "subject": "Professional Elective",
+      "faculty": "KK (EE)",
+      "room": "LH-238",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-591",
+      "subject": "Electromagnetic Theory Lab (EMT)",
+      "faculty": "SMR (EC)",
+      "room": "EMT Lab",
+      "type": "Lab"
+    }
+  ],
+  "5th_ME": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-502",
+      "subject": "Heat Transfer",
+      "faculty": "GKP (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HM-HU 501",
+      "subject": "Humanities & Management",
+      "faculty": "SSB (ENG)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME-503",
+      "subject": "Design of Machine Elements",
+      "faculty": "MG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library & Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCME-591",
+      "subject": "Fluid Mechanics & Heat Transfer Lab",
+      "faculty": "SG(ME) + MG(ME)",
+      "room": "Fluid Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "MC-501",
+      "subject": "Constitution of India",
+      "faculty": "GKP (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-502",
+      "subject": "Heat Transfer",
+      "faculty": "MG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "MC-501",
+      "subject": "Constitution of India",
+      "faculty": "MG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCME-503",
+      "subject": "Design of Machine Elements",
+      "faculty": "SM (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Research",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "HM-HU501",
+      "subject": "Technical Communication Practice",
+      "faculty": "SSB (ENG)",
+      "room": "Language Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-501",
+      "subject": "Applied Thermodynamics",
+      "faculty": "SM (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-503",
+      "subject": "Design of Machine Elements",
+      "faculty": "GKP (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME-501",
+      "subject": "Applied Thermodynamics",
+      "faculty": "SMM (E)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCME-503",
+      "subject": "Design of Machine Elements",
+      "faculty": "MG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCME-592",
+      "subject": "Design Practice Lab (CAD)",
+      "faculty": "GKP(ME) + SG(ME)",
+      "room": "CAD Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-501",
+      "subject": "Applied Thermodynamics",
+      "faculty": "SM (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCME-502",
+      "subject": "Heat Transfer",
+      "faculty": "GKP (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME-502",
+      "subject": "Heat Transfer",
+      "faculty": "GKP (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HM-HU 501",
+      "subject": "Management & Economics",
+      "faculty": "SSB (ENG)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PROJECT",
+      "subject": "Project IPWME - 581 Work",
+      "faculty": "ME Faculty",
+      "room": "Projects Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 03:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction",
+      "faculty": "ME Faculty",
+      "room": "DH-1",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-501",
+      "subject": "Applied Thermodynamics",
+      "faculty": "SM (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "VAC-ME501",
+      "subject": "Value Added Robotics & CNC",
+      "faculty": "SG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "VAC-ME501",
+      "subject": "Automation Workshop",
+      "faculty": "SG (ME)",
+      "room": "DH-1",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "NPTEL / MOOCS Online Classes",
+      "faculty": "Coordinator",
+      "room": "DH-1",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-ME501",
+      "subject": "CNC Machine Hands-on Practice",
+      "faculty": "SG (ME)",
+      "room": "Mechanical Workshop",
+      "type": "Lab"
+    }
+  ],
+  "5th_CE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PC)503",
+      "subject": "Structural Analysis-II",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PC)506",
+      "subject": "Transportation Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(MC)501",
+      "subject": "Environmental Engineering",
+      "faculty": "SC (ENG)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(PC)506",
+      "subject": "Transportation Engineering",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "CE(PC)502",
+      "subject": "Geotechnical Engineering-I",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(PC)595",
+      "subject": "Geotechnical Engineering Lab",
+      "faculty": "MK (CE)",
+      "room": "Soil Mechanics Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PC)501",
+      "subject": "Design of RC Structures",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PC)504",
+      "subject": "Environmental Engineering-I",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(MC)501",
+      "subject": "Constitution of India",
+      "faculty": "SC (ENG)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(PC)504",
+      "subject": "Environmental Engineering-I",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC-CE502",
+      "subject": "Value Added Structural Design",
+      "faculty": "Faculty",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(PC)594",
+      "subject": "Concrete Technology Lab",
+      "faculty": "SD (CE)",
+      "room": "Concrete Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PC)503",
+      "subject": "Structural Analysis-II",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PC)501",
+      "subject": "Design of RC Structures",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PC)502",
+      "subject": "Geotechnical Engineering",
+      "faculty": "SC (ENG)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(PC)505",
+      "subject": "Highway & Pavement Design",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC-CE502",
+      "subject": "Value Added STAAD.Pro Workshop",
+      "faculty": "Faculty",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(PC)591",
+      "subject": "Highway Engineering Lab",
+      "faculty": "PD (CE)",
+      "room": "Highway Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PC)501",
+      "subject": "Design of RC Structures",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PC)505",
+      "subject": "Highway Design",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PC)503",
+      "subject": "Structural Analysis-II",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "VAC-CE501",
+      "subject": "Value Added Advanced Survey",
+      "faculty": "Faculty",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "VAC-CE506",
+      "subject": "Value Added GIS & Remote Sensing",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(PC)597",
+      "subject": "Environmental Engineering Lab",
+      "faculty": "PD (CE)",
+      "room": "Env Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PC)505",
+      "subject": "Highway Design",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PC)504",
+      "subject": "Environmental Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PC)503",
+      "subject": "Structural Analysis-II",
+      "faculty": "MK (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(PC)506",
+      "subject": "Transportation Engineering",
+      "faculty": "SD (CE)",
+      "room": "LH-239",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(PC)596",
+      "subject": "Structural Design CAD Lab",
+      "faculty": "SD (CE)",
+      "room": "Civil CAD Center",
+      "type": "Lab"
+    }
+  ],
+  "5th_AIML": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-AIML501",
+      "subject": "Design & Analysis of Algorithms",
+      "faculty": "ST (IT)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-AIML501B",
+      "subject": "Deep Learning Foundations",
+      "faculty": "IM (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-AIML501",
+      "subject": "Algorithms & Complexity",
+      "faculty": "BA (M)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-AIML501",
+      "subject": "Algorithms Workshop",
+      "faculty": "BA (M)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS503",
+      "subject": "Object Oriented System",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Meeting & Research Discussion",
+      "faculty": "TC(AIML) + AM(AIML)",
+      "room": "LH-137",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-CS503",
+      "subject": "Software System Design",
+      "faculty": "ST (IT)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Industry Interaction & Grooming",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS591",
+      "subject": "Deep Learning Laboratory",
+      "faculty": "AB(AIML) + KK(IT)",
+      "room": "AI Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-AIML501B",
+      "subject": "Deep Learning Architecture",
+      "faculty": "IM (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Aptitude & Logical Reasoning",
+      "faculty": "AM (AIML)",
+      "room": "LH-137",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "NF",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS592",
+      "subject": "Operating Systems Simulation Lab",
+      "faculty": "TC (AIML)",
+      "room": "Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-AIML501B",
+      "subject": "Natural Language Processing",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-AIML501B",
+      "subject": "Deep Learning Practice",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-AIML501",
+      "subject": "Advanced Algorithm Design",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS503",
+      "subject": "Machine Learning Pipeline",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS503",
+      "subject": "AI Project Development",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PEC-AIML592",
+      "subject": "Natural Language Processing Lab",
+      "faculty": "ST(IT) + SP(IT)",
+      "room": "Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PRES",
+      "subject": "Technical Presentation Skills",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "TC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCC-AIML",
+      "subject": "AI Model Deployment",
+      "faculty": "ST (IT)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS503",
+      "subject": "System Architecture",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-137",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "APT",
+      "subject": "Aptitude & Technical Reasoning",
+      "faculty": "AM (AIML)",
+      "room": "LH-137",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS593",
+      "subject": "Mini Project in Machine Learning",
+      "faculty": "SKHC(AIML) + TC(AIML)",
+      "room": "Lab 11",
+      "type": "Lab"
+    }
+  ],
+  "5th_DS": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-DS501E",
+      "subject": "Data Mining & Warehousing",
+      "faculty": "SH (DS)",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "MC-CS501",
+      "subject": "Constitution of India",
+      "faculty": "SC",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "PKP (CSE DS)",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-DS501",
+      "subject": "Statistical Learning",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS592",
+      "subject": "Operating System Lab",
+      "faculty": "FK",
+      "room": "Software Lab 13",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCC-CS503",
+      "subject": "Object Oriented Programming",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "PKP",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "ESC-591",
+      "subject": "Software Engineering Lab",
+      "faculty": "PKP",
+      "room": "Software Lab 13",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "PKP",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-DS501E",
+      "subject": "Data Mining",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-501",
+      "subject": "Industrial Management",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MC-CS501",
+      "subject": "Constitution of India",
+      "faculty": "SC",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-CS503",
+      "subject": "Object Oriented Programming",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-DS591",
+      "subject": "Data Mining & Visualization Lab",
+      "faculty": "SH",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "ESC-501",
+      "subject": "Software Engineering",
+      "faculty": "PKP",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-CS502",
+      "subject": "Operating Systems",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "MC-CS501",
+      "subject": "Constitution of India",
+      "faculty": "SC",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS503",
+      "subject": "Object Oriented Programming",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCC-DS501",
+      "subject": "Big Data Analytics",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "REM",
+      "subject": "Remedial & Research Practical Classes",
+      "faculty": "Faculty In-Charge",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-DS501E",
+      "subject": "Data Mining",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCC-DS501",
+      "subject": "Statistical Learning",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "QUANT",
+      "subject": "Quantum Computing Seminar",
+      "faculty": "AC",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCC-CS503",
+      "subject": "Object Oriented Programming",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCC-CS593",
+      "subject": "Object Oriented Programming Lab",
+      "faculty": "SH",
+      "room": "Lab 7",
+      "type": "Lab"
+    }
+  ],
+  "5th_EE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-503",
+      "subject": "Control Systems",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCEE-503",
+      "subject": "Control Systems",
+      "faculty": "SC (ENG)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCEE-504",
+      "subject": "Microprocessors & Microcontrollers",
+      "faculty": "NB (CHE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-501",
+      "subject": "Power Systems-I",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "APT",
+      "subject": "Aptitude Test & Training",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCEE-592",
+      "subject": "Control Systems Laboratory",
+      "faculty": "RS (EE)",
+      "room": "Control Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-503",
+      "subject": "Control Systems",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCEE-501",
+      "subject": "Power Systems-I",
+      "faculty": "AS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCEE-504",
+      "subject": "Microprocessors",
+      "faculty": "KK (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-502",
+      "subject": "Power Electronics",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PEE-501C",
+      "subject": "Renewable Energy Sources",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCEE-594",
+      "subject": "Microprocessor Lab",
+      "faculty": "KK (EE)",
+      "room": "Microprocessor Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "AD(CSE)",
+      "subject": "Applied Data Science for EE",
+      "faculty": "AD (CSE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OE-EE501A",
+      "subject": "Open Elective: Data Structures",
+      "faculty": "AS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCEE-504",
+      "subject": "Microprocessors",
+      "faculty": "KK (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-502",
+      "subject": "Power Electronics",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCEE-591",
+      "subject": "Power Systems Lab",
+      "faculty": "AS (EE)",
+      "room": "Power Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "RS(EE)",
+      "subject": "Electric Drives & Traction",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "AD(CSE)",
+      "subject": "Data Structures Elective",
+      "faculty": "AD (CSE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEE-501C",
+      "subject": "Renewable Energy Systems",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PCEE-502",
+      "subject": "Power Electronics",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PCEE-502",
+      "subject": "Power Electronics Seminar",
+      "faculty": "NF (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCEE-592",
+      "subject": "Power Electronics Lab",
+      "faculty": "NF (EE)",
+      "room": "Power Electronics Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OE-EE501A",
+      "subject": "Open Elective",
+      "faculty": "AD (CSE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PCEE-504",
+      "subject": "Microprocessors",
+      "faculty": "KK (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEE-501C",
+      "subject": "Solar & Wind Power Systems",
+      "faculty": "RS (EE)",
+      "room": "LH-237",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MM-MNT",
+      "subject": "Mentor Mentee Counseling",
+      "faculty": "KK (EE)",
+      "room": "LH-237",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Revision",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "VAC-EE05",
+      "subject": "Value Added PLC & SCADA Workshop",
+      "faculty": "RS (EE)",
+      "room": "Automation Lab",
+      "type": "Lab"
+    }
+  ],
+  "7th_CSE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-CS 702A",
+      "subject": "Cloud Computing",
+      "faculty": "RR (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSMC-701",
+      "subject": "Project Management & Entrepreneurship",
+      "faculty": "MM (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-CS 701E",
+      "subject": "Deep Learning Elective",
+      "faculty": "PPP (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "OEC-CS 701B",
+      "subject": "Cyber Law & Ethics",
+      "faculty": "SG (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS / Certification Courses",
+      "faculty": "Faculty",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PPT-ADV",
+      "subject": "Presentation on Advanced Technologies",
+      "faculty": "AK (CS)",
+      "room": "Seminar Hall",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "GROOM",
+      "subject": "Campus Placement Grooming",
+      "faculty": "RR (CS)",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEC-CS 701B",
+      "subject": "Cyber Law & Ethics",
+      "faculty": "SG (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "MOCK-INT",
+      "subject": "Technical Mock Interview",
+      "faculty": "SP (CS)",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "MM (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Research Paper Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project Phase-I",
+      "faculty": "Project Committee",
+      "room": "Project Lab 1",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-CS 701E",
+      "subject": "Deep Learning",
+      "faculty": "PPP (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-CS 702A",
+      "subject": "Cloud Computing",
+      "faculty": "RR (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "MM (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Soft Skills & HR Round Prep",
+      "faculty": "AK (CS)",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "Self-Paced Learning",
+      "faculty": "Staff",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PPT-ADV",
+      "subject": "PPT Presentation on Emerging Tech",
+      "faculty": "SBK (CS)",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-CS 702A",
+      "subject": "Cloud Computing",
+      "faculty": "RR (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-CS 701E",
+      "subject": "Deep Learning",
+      "faculty": "PPP (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "MM (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "OEC-CS 701B",
+      "subject": "Cyber Law & Ethics",
+      "faculty": "SG (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Literature Survey",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project-I Development",
+      "faculty": "Guides & HoD",
+      "room": "Project Lab 2",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "MOCK-INT",
+      "subject": "Coding Assessment & Mock Test",
+      "faculty": "BM (CS)",
+      "room": "LH-133",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-CS 701E",
+      "subject": "Deep Learning",
+      "faculty": "PPP (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEC-CS 701B",
+      "subject": "Cyber Law & Ethics",
+      "faculty": "SG (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-CS 702A",
+      "subject": "Cloud Computing",
+      "faculty": "RR (CS)",
+      "room": "LH-133",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Counseling for Placements",
+      "faculty": "All Mentors",
+      "room": "LH-133",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Implementation & Demo",
+      "faculty": "Project Committee",
+      "room": "Project Lab 1",
+      "type": "Lab"
+    }
+  ],
+  "7th_IT": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-IT 702F",
+      "subject": "Cloud Infrastructure & Services",
+      "faculty": "SP (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSMC-701",
+      "subject": "Project Management & Entrepreneurship",
+      "faculty": "DD (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-IT 701D",
+      "subject": "Information Security",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "DD (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "REM",
+      "subject": "Remedial & Doubt Clearing Class",
+      "faculty": "IT Faculty",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project Phase-I Development",
+      "faculty": "IT Faculty",
+      "room": "IT Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-IT 702F",
+      "subject": "Cloud Infrastructure",
+      "faculty": "SS (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "SC (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-IT 702F",
+      "subject": "Cloud Infrastructure",
+      "faculty": "SP (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-IT 701D",
+      "subject": "Information Security",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Certification Course",
+      "faculty": "Coordinator",
+      "room": "LH-113",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Lab Implementation",
+      "faculty": "Guides",
+      "room": "IT Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "DD (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEC-IT 701C",
+      "subject": "Internet of Things Elective",
+      "faculty": "SS (E)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "SC (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-IT 702F",
+      "subject": "Cloud Computing Practice",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "GROOM",
+      "subject": "Grooming Classes for Soft Skills & Placement",
+      "faculty": "Placement Cell",
+      "room": "Seminar Hall",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-IT 701D",
+      "subject": "Information Security",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-IT 702F",
+      "subject": "Cloud Infrastructure",
+      "faculty": "SS (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEC-IT 701D",
+      "subject": "Information Security",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "REM",
+      "subject": "Revision Class",
+      "faculty": "IT Faculty",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "Self Learning Online",
+      "faculty": "Staff",
+      "room": "LH-113",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project-I Development",
+      "faculty": "Guides",
+      "room": "IT Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "GROOM",
+      "subject": "Grooming & Mock Interviews for Placements",
+      "faculty": "SSB (E)",
+      "room": "LH-113",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEC-IT 701C",
+      "subject": "Open Elective IoT",
+      "faculty": "SS (E)",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Review",
+      "faculty": "SM (IT)",
+      "room": "LH-113",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "REM",
+      "subject": "Remedial Coaching",
+      "faculty": "Faculty",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "REM",
+      "subject": "Remedial Coaching",
+      "faculty": "Faculty",
+      "room": "LH-113",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction & Career Guidance",
+      "faculty": "IT Mentors",
+      "room": "LH-113",
+      "type": "Mentorship"
+    }
+  ],
+  "7th_ECE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEEC-701C",
+      "subject": "Cellular & Mobile Communication",
+      "faculty": "GCD (EC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEEC-703C",
+      "subject": "Wireless Sensor Networks",
+      "faculty": "SOP (EC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSHU-701",
+      "subject": "Principles of Management",
+      "faculty": "PM (BA)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "GD",
+      "subject": "Group Discussion for Campus Placements",
+      "faculty": "VPR (EC)",
+      "room": "CB-11",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "EC-781",
+      "subject": "Industrial Training Review",
+      "faculty": "VPR (EC)",
+      "room": "CB-11",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEEC-704A",
+      "subject": "Embedded Systems",
+      "faculty": "PKC (CS)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEEC-704C",
+      "subject": "Microwave Theory & Techniques",
+      "faculty": "PKC (CS)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-702C",
+      "subject": "Satellite Communication",
+      "faculty": "BK (PEC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "EC-781",
+      "subject": "Industrial Training Defense",
+      "faculty": "GCD (EC)",
+      "room": "CB-11",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-782",
+      "subject": "Project Part-I Work",
+      "faculty": "VPR (EC)",
+      "room": "ECE Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEEC-703A",
+      "subject": "VLSI Design Elective",
+      "faculty": "SOP (CS)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSHU-701",
+      "subject": "Principles of Management",
+      "faculty": "PM (BA)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEEC-702C",
+      "subject": "Satellite Communication",
+      "faculty": "BK (PEC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-701C",
+      "subject": "Wireless Communication",
+      "faculty": "GCD (EC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-781",
+      "subject": "Industrial Training Presentation",
+      "faculty": "VPR (EC)",
+      "room": "CB-11",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEEC-701C",
+      "subject": "Mobile Communication",
+      "faculty": "GCD (EC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSHU-701",
+      "subject": "Principles of Management",
+      "faculty": "PM (BA)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEEC-703A",
+      "subject": "VLSI Design",
+      "faculty": "SOP (CS)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEEC-702C",
+      "subject": "Satellite Communication",
+      "faculty": "GCD (EC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-782",
+      "subject": "Project Part-I Prototype Testing",
+      "faculty": "BK (PEC)",
+      "room": "ECE Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEEC-702C",
+      "subject": "Satellite Communication",
+      "faculty": "BK (PEC)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSHU-701",
+      "subject": "Principles of Management",
+      "faculty": "PM (BA)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEEC-704C",
+      "subject": "Microwave Techniques",
+      "faculty": "PKC (CS)",
+      "room": "CB-11",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library & GATE Preparation",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "EC-782",
+      "subject": "Project Part-I Submission & Viva",
+      "faculty": "Committee",
+      "room": "CB-11",
+      "type": "Lab"
+    }
+  ],
+  "7th_ME": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PE ME702",
+      "subject": "Advanced Manufacturing Technology",
+      "faculty": "HSM (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PE ME701A",
+      "subject": "Automobile Engineering",
+      "faculty": "AR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME 701",
+      "subject": "Advanced Heat Transfer",
+      "faculty": "GKP (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "OEME 701D",
+      "subject": "Renewable Energy Systems",
+      "faculty": "AR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "GATE",
+      "subject": "GATE Coaching Classes",
+      "faculty": "MG (ME)",
+      "room": "DH-2",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PCME-791",
+      "subject": "Project Phase-I Design & Modeling",
+      "faculty": "GKP (ME)",
+      "room": "CAD Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PE ME-701A",
+      "subject": "Automobile Engineering",
+      "faculty": "AR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HM-HU 701",
+      "subject": "Project Management",
+      "faculty": "NF-2",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCME 701",
+      "subject": "Advanced Heat Transfer",
+      "faculty": "GKP (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Mechanical Fabrication",
+      "faculty": "Committee",
+      "room": "Workshop",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCME-701",
+      "subject": "Thermal Power Systems",
+      "faculty": "GKP (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HM-HU 701",
+      "subject": "Industrial Engineering",
+      "faculty": "NF-2",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEME-701",
+      "subject": "Operations Research",
+      "faculty": "DAR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PE ME-702",
+      "subject": "Advanced Manufacturing",
+      "faculty": "HSM (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Assembly & Validation",
+      "faculty": "All Guides",
+      "room": "Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "QUIZ",
+      "subject": "Technical Quiz & Interview Prep",
+      "faculty": "GKP + SG + MG (ME)",
+      "room": "DH-2",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "LIB",
+      "subject": "Library & Reference Work",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "LIB",
+      "subject": "Library & Reference Work",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PE ME-701A",
+      "subject": "Automobile Engineering",
+      "faculty": "AR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Counseling",
+      "faculty": "ME Faculty",
+      "room": "DH-2",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "GROOM",
+      "subject": "Campus Recruitment Grooming Class",
+      "faculty": "Training Cell",
+      "room": "DH-2",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "GATE",
+      "subject": "GATE Mechanical Concepts Discussion",
+      "faculty": "GKP (ME)",
+      "room": "DH-2",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PE ME-702",
+      "subject": "Advanced Manufacturing",
+      "faculty": "HSM (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "OEME 701",
+      "subject": "Operations Research",
+      "faculty": "DAR (ME)",
+      "room": "DH-2",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Certification Assessment",
+      "faculty": "Coordinator",
+      "room": "DH-2",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "LIB",
+      "subject": "Library & Placement Prep",
+      "faculty": "Staff",
+      "room": "DH-2",
+      "type": "Library"
+    }
+  ],
+  "7th_CE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(OE) 701C",
+      "subject": "Open Elective: Air & Noise Pollution",
+      "faculty": "BR (CSE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PE) 701C",
+      "subject": "Prestressed Concrete Structures",
+      "faculty": "SD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PE) 705A",
+      "subject": "Water Resources Engineering",
+      "faculty": "MK (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "INTERACT",
+      "subject": "Student Teacher Interaction & Counseling",
+      "faculty": "Civil Faculty",
+      "room": "LH-532",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PE) 702A",
+      "subject": "Advanced Foundation Engineering",
+      "faculty": "MK (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PE) 703A",
+      "subject": "Pavement Design",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PE) 704A",
+      "subject": "Earthquake Engineering",
+      "faculty": "MK (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(OE) 701C",
+      "subject": "Disaster Management Elective",
+      "faculty": "BR (CSE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(IN)792",
+      "subject": "Project Part-I Engineering Design",
+      "faculty": "Project Faculty",
+      "room": "Design Office",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PE) 703A",
+      "subject": "Pavement Design",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PE) 703A",
+      "subject": "Pavement Design",
+      "faculty": "MK (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PE) 704A",
+      "subject": "Earthquake Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "CE(IN)791",
+      "subject": "Industrial Internship Review & Viva",
+      "faculty": "Civil HoD & Panel",
+      "room": "LH-532",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(PE) 701C",
+      "subject": "Prestressed Concrete",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PE) 704A",
+      "subject": "Earthquake Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PE) 703A",
+      "subject": "Pavement Design",
+      "faculty": "MK (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "CE(PE) 702A",
+      "subject": "Advanced Foundation Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Gate Guidance",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-792",
+      "subject": "Project-I Structural Drawings & BOQ",
+      "faculty": "Panel",
+      "room": "Civil CAD Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "CE(OE) 701C",
+      "subject": "Open Elective",
+      "faculty": "BR (CSE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "CE(PE) 701C",
+      "subject": "Prestressed Concrete",
+      "faculty": "SD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "CE(PE) 704A",
+      "subject": "Earthquake Engineering",
+      "faculty": "PD (CE)",
+      "room": "LH-532",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Session",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Portal Learning & Project Documentation",
+      "faculty": "Coordinator",
+      "room": "LH-532",
+      "type": "Seminar"
+    }
+  ],
+  "7th_AIML": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-AIML702A",
+      "subject": "Computer Vision & Edge AI",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEC-AIML701",
+      "subject": "Ethics in Artificial Intelligence",
+      "faculty": "IM (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management & Entrepreneurship",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Campus Interview Grooming",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "GROOM",
+      "subject": "Technical Interview Practice",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project-I AI Model Pipeline",
+      "faculty": "Committee",
+      "room": "AI Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OEC-AIML701",
+      "subject": "AI Regulations & Ethics",
+      "faculty": "IM (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-AIML702A",
+      "subject": "Computer Vision & Robotics",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Soft Skills Development",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "GROOM",
+      "subject": "Mock Coding Assessments",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PEC-AIML701A",
+      "subject": "Generative AI Systems Practice",
+      "faculty": "SKHC (AIML)",
+      "room": "Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-AIML702A",
+      "subject": "Computer Vision",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "NF",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "GROOM",
+      "subject": "Placement Preparation",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APT",
+      "subject": "Aptitude & Analytical Thinking",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Research",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Counseling & Project Review",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-533",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "APT",
+      "subject": "Aptitude Problem Solving",
+      "faculty": "AM (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "GROOM",
+      "subject": "Professional Grooming",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-AIML701A",
+      "subject": "Reinforcement Learning",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self-Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project Implementation",
+      "faculty": "Guides",
+      "room": "AI Lab 11",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OEC-AIML701",
+      "subject": "Open Elective",
+      "faculty": "IM (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-AIML701A",
+      "subject": "Advanced Machine Learning",
+      "faculty": "SKHC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PROG",
+      "subject": "Advanced Competitive Programming",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "PEC-AIML702A",
+      "subject": "Computer Vision",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "PEC-AIML702A",
+      "subject": "Model Deployment on Edge",
+      "faculty": "TC (AIML)",
+      "room": "LH-533",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Demonstration & Evaluation",
+      "faculty": "Panel",
+      "room": "Lab 11",
+      "type": "Lab"
+    }
+  ],
+  "7th_DS": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-DS701",
+      "subject": "Big Data Analytics & Hadoop",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "OEC-DS701",
+      "subject": "Cloud Data Warehousing",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "GROOM",
+      "subject": "Data Science Career Grooming",
+      "faculty": "Faculty",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Paper Review",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Major Project Data Pipelines",
+      "faculty": "Faculty In-Charge",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-DS702",
+      "subject": "Predictive Modeling with Machine Learning",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-DS701",
+      "subject": "Big Data Analytics",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "MOCK-INT",
+      "subject": "Technical Mock Interviews",
+      "faculty": "PKP",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library & Self Study",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Data Science Model Training Lab",
+      "faculty": "Guides",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OEC-DS701",
+      "subject": "Data Engineering Systems",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-DS702",
+      "subject": "Predictive Analytics",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management & IPR",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APT",
+      "subject": "Quantitative Aptitude for Placements",
+      "faculty": "Staff",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MOOCS",
+      "subject": "MOOCS Specialized Certification",
+      "faculty": "Coordinator",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Milestone Assessment",
+      "faculty": "Panel",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PEC-DS701",
+      "subject": "Big Data Analytics",
+      "faculty": "AG",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-DS702",
+      "subject": "Machine Learning in Production",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "HSMC-701",
+      "subject": "Project Management",
+      "faculty": "PM",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "OEC-DS701",
+      "subject": "Business Analytics & BI Tools",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Dashboard & BI Implementation Lab",
+      "faculty": "Staff",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "MOCK-TEST",
+      "subject": "Full Length Aptitude & Coding Test",
+      "faculty": "Placement Cell",
+      "room": "CSE Tutorial Room",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEC-DS702",
+      "subject": "Predictive Analytics",
+      "faculty": "FK",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OEC-DS701",
+      "subject": "Data Governance & Ethics",
+      "faculty": "SH",
+      "room": "CSE Tutorial Room",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "LIB",
+      "subject": "Library Period",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Interaction",
+      "faculty": "All Mentors",
+      "room": "CSE Tutorial Room",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PROJ-781",
+      "subject": "Project-I Final Demonstration",
+      "faculty": "HoD & Committee",
+      "room": "Data Science Lab",
+      "type": "Lab"
+    }
+  ],
+  "7th_EE": [
+    {
+      "day": "Tuesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-701",
+      "subject": "Electric Drives",
+      "faculty": "KK (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEE-701C",
+      "subject": "Power Plant Engineering",
+      "faculty": "PKP (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PEE-702B",
+      "subject": "High Voltage Engineering",
+      "faculty": "SD (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HME-701",
+      "subject": "Values & Ethics in Profession",
+      "faculty": "NF1 (MBA)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Tuesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Hours",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Tuesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PWEE-781",
+      "subject": "Project Part-I Hardware Work",
+      "faculty": "AS (EE)",
+      "room": "EE Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Wednesday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OE-EE702C",
+      "subject": "Renewable Energy Sources",
+      "faculty": "SD (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEE-701C",
+      "subject": "Power Plant Engineering",
+      "faculty": "PKP (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCEE-701",
+      "subject": "Electric Drives",
+      "faculty": "KK (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HME-701",
+      "subject": "Principles of Management",
+      "faculty": "NF1 (MBA)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Wednesday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "LIB",
+      "subject": "Library Reading",
+      "faculty": "Staff",
+      "room": "Central Library",
+      "type": "Library"
+    },
+    {
+      "day": "Wednesday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PWEE-781",
+      "subject": "Project Part-I Simulation & Modeling",
+      "faculty": "KK (EE)",
+      "room": "EE Project Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Thursday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "OE-EE702C",
+      "subject": "Renewable Energy Sources",
+      "faculty": "PKP (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEE-701C",
+      "subject": "Power Plant Engineering",
+      "faculty": "PKP (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "PCEE-701",
+      "subject": "Electric Drives",
+      "faculty": "SD (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "HME-701",
+      "subject": "Industrial Management",
+      "faculty": "NF1 (MBA)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Thursday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "APT",
+      "subject": "Aptitude Preparation",
+      "faculty": "AS (EE)",
+      "room": "LH-241",
+      "type": "Seminar"
+    },
+    {
+      "day": "Thursday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PWEE-791",
+      "subject": "Electric Drives Laboratory",
+      "faculty": "KK (EE)",
+      "room": "Machines Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Friday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-701",
+      "subject": "Electric Drives",
+      "faculty": "KK (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEE-701B",
+      "subject": "Advanced Control Systems",
+      "faculty": "PKP (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OE-EE702C",
+      "subject": "Renewable Energy Elective",
+      "faculty": "SD (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Friday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APT",
+      "subject": "Aptitude Testing",
+      "faculty": "RS (EE)",
+      "room": "LH-241",
+      "type": "Seminar"
+    },
+    {
+      "day": "Friday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "MENTOR",
+      "subject": "Mentor Mentee Counseling",
+      "faculty": "RS (EE)",
+      "room": "LH-241",
+      "type": "Mentorship"
+    },
+    {
+      "day": "Friday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PWEE-782",
+      "subject": "Electrical System Simulation Lab",
+      "faculty": "KK (EE)",
+      "room": "Simulation Lab",
+      "type": "Lab"
+    },
+    {
+      "day": "Saturday",
+      "time": "09:30 AM - 10:20 AM",
+      "code": "PCEE-701",
+      "subject": "Electric Drives",
+      "faculty": "KK (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:20 AM - 11:10 AM",
+      "code": "PEE-701C",
+      "subject": "Power Plant Engineering",
+      "faculty": "PKP (EE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "11:10 AM - 12:00 PM",
+      "code": "OE-EE702C",
+      "subject": "Renewable Energy Sources",
+      "faculty": "SD (CSE)",
+      "room": "LH-241",
+      "type": "Lecture"
+    },
+    {
+      "day": "Saturday",
+      "time": "12:00 PM - 12:50 PM",
+      "code": "APT",
+      "subject": "Aptitude Assessment",
+      "faculty": "AS (EE)",
+      "room": "LH-241",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "01:40 PM - 02:30 PM",
+      "code": "APT",
+      "subject": "Technical Interview Prep",
+      "faculty": "RS (EE)",
+      "room": "LH-241",
+      "type": "Seminar"
+    },
+    {
+      "day": "Saturday",
+      "time": "02:30 PM - 05:20 PM",
+      "code": "PWEE-781",
+      "subject": "Major Project-I Progress Viva",
+      "faculty": "KK (EE)",
+      "room": "LH-241",
+      "type": "Lab"
+    }
+  ]
+}
